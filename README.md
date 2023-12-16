@@ -1,4 +1,4 @@
-_# todo
+# todo
 
 A simple Flutter app for task management using the [JSONPlaceholder Todos API](https://jsonplaceholder.typicode.com/todos). This app allows users to view, create, update, and delete tasks.
 
